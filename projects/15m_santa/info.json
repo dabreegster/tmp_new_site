@@ -1,0 +1,11 @@
+{
+	"name": "15-minute Santa",
+	"one-liner": "Deliver presents and transform land-use patterns",
+	"code": "https://github.com/a-b-street/abstreet/tree/main/apps/santa",
+	"site": "https://santa.abstreet.org/",
+	"features": [
+		"Deliver presents to low- and high-density housing",
+		"Refuel from cafes",
+		"Spread the magic of upzoning to make your job easier"
+	]
+}

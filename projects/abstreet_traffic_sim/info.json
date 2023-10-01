@@ -1,0 +1,11 @@
+{
+	"name": "A/B Street traffic simulation game",
+	"one-liner": "Transform streets and intersections, then simulate the effects on traffic",
+	"code": "https://github.com/a-b-street/abstreet/tree/main/apps/game",
+	"site": "https://traffic.abstreet.org/",
+	"features": [
+		"Edit roads and intersections to create less car-centric spaces",
+		"Simulate drivers, pedestrians, and cyclists moving around real cities",
+		"Measure the impact of your changes on travel time, safety, and comfort"
+	]
+}

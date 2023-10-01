@@ -1,0 +1,10 @@
+{
+	"name": "15-minute neighbourhood explorer",
+	"one-liner": "Explore nearby amenities with isochrones",
+	"code": "https://github.com/a-b-street/abstreet/tree/main/apps/fifteen_min",
+	"site": "https://15m.abstreet.org/",
+	"features": [
+		"See what places are reachable within a short walk or cycle ride",
+		"Find houses that meet your own definition of walkability"
+	]
+}
